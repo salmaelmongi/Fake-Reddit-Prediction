@@ -1,4 +1,4 @@
-# Fake-Reddit-Prediction
+# Fake News Detection Using Reddit Post Titles
 
 **Problem Statement:**
 
